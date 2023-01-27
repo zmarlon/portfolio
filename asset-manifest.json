@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c52b09ee.css",
+    "main.js": "/portfolio/static/js/main.1ca1fab5.js",
+    "static/js/787.128fc6e9.chunk.js": "/portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/voksel-rs.png": "/portfolio/static/media/voksel-rs.e19f995f9ead5bc5c3e3.png",
+    "static/media/sanctuary-island.png": "/portfolio/static/media/sanctuary-island.de38e44c47dd9d06ba03.png",
+    "static/media/marching-cubes.png": "/portfolio/static/media/marching-cubes.f83e80ec30ec7bb1fbdb.png",
+    "static/media/metal-3-example.png": "/portfolio/static/media/metal-3-example.d61a334cee88a03d2c64.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.d38e3ecca038e2442961.png",
+    "static/media/native-function-loader.png": "/portfolio/static/media/native-function-loader.dd3c790dc0410af42915.png",
+    "static/media/gelato-italiano.png": "/portfolio/static/media/gelato-italiano.030477e9035d24064d05.png",
+    "static/media/puzzle-game.png": "/portfolio/static/media/puzzle-game.02f55dca1b8fa8dbc1d2.png",
+    "static/media/pdengine.png": "/portfolio/static/media/pdengine.fd7ff839d02dd0143d15.png",
+    "static/media/linkedin-logo.png": "/portfolio/static/media/linkedin-logo.fe6083e23a1526cf69a4.png",
+    "static/media/logo.jpeg": "/portfolio/static/media/logo.ff92ebf9eba6cfb9b6d1.jpeg",
+    "static/media/instagram-logo.svg": "/portfolio/static/media/instagram-logo.ba152442188575fc96c1c8c109a2f01d.svg",
+    "static/media/github-logo.svg": "/portfolio/static/media/github-logo.35999297e2ab212306b8786fa4563cd6.svg",
+    "index.html": "/portfolio/index.html",
+    "main.c52b09ee.css.map": "/portfolio/static/css/main.c52b09ee.css.map",
+    "main.1ca1fab5.js.map": "/portfolio/static/js/main.1ca1fab5.js.map",
+    "787.128fc6e9.chunk.js.map": "/portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52b09ee.css",
+    "static/js/main.1ca1fab5.js"
+  ]
+}
