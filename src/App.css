@@ -1,38 +1,70 @@
-.App {
-  text-align: center;
+* {
+  --default-border-radius: 10px;
+
+  --brighter-black: rgb(16, 20, 22);
+  --darker-black: rgb(8, 12, 11);
+
+  --default-green: rgb(93, 173, 133);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+h1 {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.App {
+  background-color: var(--brighter-black);
+  color: rgb(114, 118, 119);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Logo {
+  border-radius: 50%;
+  transition: 1s;
+}
+
+.SocialMediaAccount {
+  background-color: var(--darker-black);
+  transition: 0.5s;
+  border-radius: var(--default-border-radius);
+  cursor: pointer;
+}
+
+.SocialMediaAccount:hover {
+  background-color: var(--default-green);
+}
+
+.FirstColumn {
+  width: 50%;
+}
+
+.SecondColumn {
+  background-color: var(--darker-black);
+}
+
+.Entry {
+  background-color: var(--brighter-black);
+  border-radius: var(--default-border-radius);
+  box-shadow: 0 10px 10px rgba(0,0,0,0.9);
+  cursor: pointer;
+
+  transition: 0.5s;
+}
+
+.Entry:Hover {
+  color: white;
+  background-color: var(--darker-black);
+}
+
+.GreenText {
+  color: var(--default-green);
+}
+
+.ProjectDescription {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ProjectImage {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
