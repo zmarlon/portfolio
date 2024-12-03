@@ -17,7 +17,7 @@ import pdEngine from './resources/pdengine.png'
 import portfolio from './resources/portfolio.png'
 import gelatoItaliano from './resources/gelato-italiano.png'
 
-const description = "I am a 23 year old software developer from Zell-Mosel. Since I was 16 years old, I have developed a deep fascination in computer programming. What I enjoy most is always finding the best solution for any kind of problem. I love to keep learning new technologies, expanding my knowledge and staying on the cutting edge of technology."
+const description = "I am a 25 year old software developer from Zell-Mosel. Since I was 16 years old, I have developed a deep fascination in computer programming. What I enjoy most is always finding the best solution for any kind of problem. I love to keep learning new technologies, expanding my knowledge and staying on the cutting edge of technology."
 
 function SocialMediaAccount({platform, logo, link}) {
   return (
